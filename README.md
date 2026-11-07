@@ -18,6 +18,6 @@ Nearly five years in revenue and CRM operations: pipeline design, forecasting, C
 
 ### Background
 
-MBA candidate at Quantic (2028). Data Science program at Datalab (SQL, Python, Power BI). BSc Zoology, University of Ilorin. Earlier: behavior-change and adoption systems at UNICEF. My older data projects from the Datalab program are still here: [Malaria in Africa](https://github.com/FeyisayoDaisi/Malaria-in-Africa) and [SKETCHIES SQL](https://github.com/FeyisayoDaisi/SKETCHIES-SQL).
+MBA candidate at Quantic (2028). Data Science program at Datalab (SQL, Python, Power BI). BSc Zoology, University of Ilorin. Earlier: behavior-change and adoption systems at UNICEF.
 
 [LinkedIn](https://www.linkedin.com/in/feyisayo-daisi-1ba481191) | feyisayodaisi@gmail.com
