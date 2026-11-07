@@ -6,7 +6,7 @@ Nearly five years in revenue and CRM operations: pipeline design, forecasting, C
 
 ### Start here
 
-**[Forecast Integrity System](https://github.com/FeyisayoDaisi/revops-forecast-integrity)**: audits a CRM pipeline against its own stage rules, forecasts the quarter three ways, back-tests every method, and builds the weekly CRO review pack. On the same four quarters, cleaning the pipeline first cut stage-weighted forecast error from 45.3% to 24.6%. Python, synthetic data with a planted answer key, every result measured.
+**[Forecast Integrity System](https://github.com/FeyisayoDaisi/revops-forecast-integrity)**: audits a CRM pipeline against its own stage rules, forecasts the quarter three ways, back-tests every method, builds the weekly CRO review pack, and runs a deal desk that checks every quote against pricing and approval policy. On the same four quarters, cleaning the pipeline first cut stage-weighted forecast error from 45.3% to 24.6%. Python, synthetic data with a planted answer key, every result measured.
 
 **[Forecast Reasoning Eval](https://github.com/FeyisayoDaisi/revops-forecast-reasoning-eval)** (in build): tests whether AI explanations of a forecast are correct, not just fluent. Twenty scenarios with checkable answers, a four-part rubric, and human versus AI grader agreement.
 
