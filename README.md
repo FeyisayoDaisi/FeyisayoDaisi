@@ -6,9 +6,9 @@ Nearly five years in revenue and CRM operations: pipeline design, forecasting, C
 
 ### Start here
 
-**[Forecast Integrity System](https://github.com/Funmikale/revops-forecast-integrity)**: audits a CRM pipeline against its own stage rules, forecasts the quarter three ways, back-tests every method, and builds the weekly CRO review pack. On the same four quarters, cleaning the pipeline first cut stage-weighted forecast error from 45.3% to 24.6%. Python, synthetic data with a planted answer key, every result measured.
+**[Forecast Integrity System](https://github.com/FeyisayoDaisi/revops-forecast-integrity)**: audits a CRM pipeline against its own stage rules, forecasts the quarter three ways, back-tests every method, and builds the weekly CRO review pack. On the same four quarters, cleaning the pipeline first cut stage-weighted forecast error from 45.3% to 24.6%. Python, synthetic data with a planted answer key, every result measured.
 
-**[Forecast Reasoning Eval](https://github.com/Funmikale/revops-forecast-reasoning-eval)** (in build): tests whether AI explanations of a forecast are correct, not just fluent. Twenty scenarios with checkable answers, a four-part rubric, and human versus AI grader agreement.
+**[Forecast Reasoning Eval](https://github.com/FeyisayoDaisi/revops-forecast-reasoning-eval)** (in build): tests whether AI explanations of a forecast are correct, not just fluent. Twenty scenarios with checkable answers, a four-part rubric, and human versus AI grader agreement.
 
 ### Real results from client work
 
@@ -18,6 +18,6 @@ Nearly five years in revenue and CRM operations: pipeline design, forecasting, C
 
 ### Background
 
-MBA candidate at Quantic (2028). Data Science program at Datalab (SQL, Python, Power BI). BSc Zoology, University of Ilorin. Earlier: behavior-change and adoption systems at UNICEF. My older data projects from the Datalab program are still here: [Malaria in Africa](https://github.com/Funmikale/Malaria-in-Africa) and [SKETCHIES SQL](https://github.com/Funmikale/SKETCHIES-SQL).
+MBA candidate at Quantic (2028). Data Science program at Datalab (SQL, Python, Power BI). BSc Zoology, University of Ilorin. Earlier: behavior-change and adoption systems at UNICEF. My older data projects from the Datalab program are still here: [Malaria in Africa](https://github.com/FeyisayoDaisi/Malaria-in-Africa) and [SKETCHIES SQL](https://github.com/FeyisayoDaisi/SKETCHIES-SQL).
 
 [LinkedIn](https://www.linkedin.com/in/feyisayo-daisi-1ba481191) | feyisayodaisi@gmail.com
